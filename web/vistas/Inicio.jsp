@@ -1,0 +1,1 @@
+<h1>Bienvenido al Sistema de Registro de Materias</h1>
